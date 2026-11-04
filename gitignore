@@ -1,0 +1,17 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos de configuración con credenciales (¡Muy importante!)
+.env
+
+# Caché de Python y compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos del sistema y de Jupyter / Colab
+.ipynb_checkpoints/
+.DS_Store
